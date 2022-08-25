@@ -6,13 +6,13 @@
 <p align="center">
 
  <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/minhtuan88/">
+        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/minhtuan88/",title="Linkedin">
 			<img class="animated-gif" src="https://img.icons8.com/color/2x/linkedin-circled--v5.gif"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/7uncyb3r53c.88/">
+        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/7uncyb3r53c.88/",title="Facebook">
 		<img class="animated-gif" src="https://img.icons8.com/clouds/344/facebook-new.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=trantuan23082003@gmail.com">
+		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=trantuan23082003@gmail.com",title="Gmail">
 				<img class="animated-gif" src="https://img.icons8.com/color/2x/gmail--v2.gif"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://www.reddit.com/user/Tuan-2308/">
+	   <a style="margin-left: 10px;" target="_blank" href="https://www.reddit.com/user/Tuan-2308/",title="Reddit">
 					<img class="animated-gif" src="https://img.icons8.com/ios-filled/2x/reddit--v2.gif"></a>
       </div>
 
