@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tundedpy
 - 👀 I’m interested in Cyber Security, Cryptography Apocalypse and Deep Learning🧑‍💻
 - 🌱 I’m currently studying Cyber Security🥶 at Hanoi University of Science and Technology(HUST)
-<h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="10" height="10" style="margin-right: 10px;">📫 How to reach me </h1>
+<h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" style="margin-right: 10px;">📫 How to reach me </h1>
 
 <p align="center">
 
