@@ -2,20 +2,13 @@
 - 👀 I’m interested in Cyber Security, Cryptography Apocalypse and Deep Learning🧑‍💻
 - 🌱 I’m currently studying Cyber Security🥶 at Hanoi University of Science and Technology(HUST)
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
-
-<p align="center">
-
- <div align="center"  class="icons-social" style="margin-left: 10px;">
-        <a style="margin-left: 10px;"  target="_blank" href="https://www.linkedin.com/in/minhtuan88/",title="Linkedin">
-			<img class="animated-gif" src="https://img.icons8.com/color/2x/linkedin-circled--v5.gif"></a>
-        <a style="margin-left: 10px;" target="_blank" href="https://www.facebook.com/7uncyb3r53c.88/",title="Facebook">
-		<img class="animated-gif" src="https://img.icons8.com/clouds/344/facebook-new.png"></a>
-		<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=trantuan23082003@gmail.com",title="Gmail">
-				<img class="animated-gif" src="https://img.icons8.com/color/2x/gmail--v2.gif"></a>
-	   <a style="margin-left: 10px;" target="_blank" href="https://www.reddit.com/user/Tuan-2308/",title="Reddit">
-					<img class="animated-gif" src="https://img.icons8.com/ios-filled/2x/reddit--v2.gif"></a>
-      </div>
-
+<p align="left">
+<a href="https://www.linkedin.com/in/minhtuan88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7und3dpy" height="30" width="40" /></a>
+<a href="https://www.facebook.com/7uncyb3r53c.88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7und3dpy" height="30" width="40" /></a>
+<a style="margin-left: 10px;" target="_blank" href="https://mail.google.com/mail/u/0/?fs=1&tf=cm&source=mailto&to=trantuan23082003@gmail.com",title="Gmail">
+<img class="animated-gif" src="https://img.icons8.com/color/2x/gmail--v2.gif"></a>
+<a style="margin-left: 10px;" target="_blank" href="https://www.reddit.com/user/Tuan-2308/",title="Reddit"><img class="animated-gif" src="https://img.icons8.com/ios-filled/2x/reddit--v2.gif"></a>
+<a href="https://codeforces.com/profile/minhtuan23082003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="7und3dpy" height="30" width="40" /></a>
 </p>
 
 
