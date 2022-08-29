@@ -20,5 +20,5 @@
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
-![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=tundedpy&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tundedpy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=7und3dpy&show_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
