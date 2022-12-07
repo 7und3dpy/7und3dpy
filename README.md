@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tundedpy
-- 👀 I’m interested in Cyber Security, Cryptography Apocalypse and Deep Learning🧑‍💻
-- 🌱 I’m currently studying Cyber Security🥶 at Hanoi University of Science and Technology(HUST)
+- 👀 I’m interested in Quantumn Computing, Cryptography Apocalypse and Deep Learning
+- 🌱 I’m currently studying Cyber Security at Hanoi University of Science and Technology(HUST)
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/minhtuan88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7und3dpy" height="30" width="40" /></a>
