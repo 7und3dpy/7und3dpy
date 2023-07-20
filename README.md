@@ -21,5 +21,5 @@
 <a href="https://en.wikipedia.org/wiki/Database"> <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Database" width="40" height="40"/> </a> </p>
 
 
-![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=tuantm214978&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=tuantm214978&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=7und3dpyshow_icons=true&theme=radical)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
