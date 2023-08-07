@@ -21,5 +21,17 @@
 <a href="https://en.wikipedia.org/wiki/Database"> <img src="https://raw.githubusercontent.com/github/explore/13295c57999765ac9ffa3281942a72ab08b79de2/topics/database/database.png" alt="Database" width="40" height="40"/> </a> </p>
 
 
-![tundedpy's github stats](https://github-readme-stats.vercel.app/api?username=7und3dpy&show_icons=true&theme=radical)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hello">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical"></a>
+
+<a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a>
+
+<img src="https://github-readme-stats.vercel.app/api?username=7und3dpy&show_icons=true&theme=radical"></a>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=7und3dpy&theme=radical&hide_border=fals"></a>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=7und3dpy&bg_color=141321&color=ffffff&line=d83b7d&point=8a757d&area=true&hide_border=false"><a/>
+
+
+<img src="https://komarev.com/ghpvc/?username=7und3dpy&style=flat-squar&color=brightgreen"></a>
