@@ -25,8 +25,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical"></a>
 
-<a href="https://discord.com/users/542602170080428063"><img src="https://lanyard.cnrad.dev/api/542602170080428063"></a>
-
 <img src="https://github-readme-stats.vercel.app/api?username=7und3dpy&show_icons=true&theme=radical"></a>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=7und3dpy&theme=radical&hide_border=fals"></a>
