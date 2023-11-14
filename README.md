@@ -1,4 +1,3 @@
-- 👀 Hi, I’m interested in Reverse Engineering and Deep Learning
 - 🌱 I’m currently studying Cyber Security at Hanoi University of Science and Technology(HUST)
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 <p align="left">
