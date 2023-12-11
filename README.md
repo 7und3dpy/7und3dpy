@@ -22,13 +22,8 @@
 
 <img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hello">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=radical"></a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=7und3dpy&show_icons=true&theme=radical"></a>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=7und3dpy&theme=radical&hide_border=fals"></a>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=7und3dpy&bg_color=141321&color=ffffff&line=d83b7d&point=8a757d&area=true&hide_border=false"><a/>
 
 
 <img src="https://komarev.com/ghpvc/?username=7und3dpy&style=flat-squar&color=brightgreen"></a>
