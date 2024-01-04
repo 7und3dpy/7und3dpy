@@ -26,9 +26,4 @@
 
 
 
-<img src="https://komarev.com/ghpvc/?username=7und3dpy&style=flat-squar&color=brightgreen"></a>
-
-<!--[![Experience component](https://readme-components.vercel.app/api?component=experience&company=Singalarity)](https://github.com/harish-sethuraman/readme-components)-->
-[![StarRating Component](https://readme-components.vercel.app/api?component=star-rating&skill=css&text=4)](https://github.com/harish-sethuraman/readme-components)
-
-[![techstack logo](https://readme-components.vercel.app/api?component=logo&logo=python)](https://github.com/harish-sethuraman/readme-components)
+![Turio's Stats](https://github-readme-stats.vercel.app/api?username=7und3dpy&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
