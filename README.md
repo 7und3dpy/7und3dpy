@@ -27,3 +27,5 @@
 
 
 ![Turio's Stats](https://github-readme-stats.vercel.app/api?username=7und3dpy&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Turio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7und3dpy&theme=chartreuse-dark&hide_border=true)
