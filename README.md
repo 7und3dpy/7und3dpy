@@ -1,10 +1,8 @@
-- 🌱 I’m currently studying Cyber Security at Hanoi University of Science and Technology(HUST)
 <h1 align="left" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width = "30",height = "30" style="margin-right: 10px;">📫 How to reach me </h1>
 <p align="left">
 <a href="https://www.linkedin.com/in/minhtuan88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="7und3dpy" height="30" width="40" /></a>
 <a href="https://www.facebook.com/7uncyb3r53c.88/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="7und3dpy" height="30" width="40" /></a>
 <a href="https://www.reddit.com/user/Tuan-2308/" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/reddit.svg" alt="7und3dpy" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/minhtuan23082003" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="7und3dpy" height="30" width="40" /></a>
 </p>
 
 
@@ -21,13 +19,3 @@
 
 
 <img src="http://readme-typing-svg.herokuapp.com?font=ubuntu&color=%2336BCF7&vCenter=true&multiline=true&height=39&lines=Hello">
-
-
-
-
-
-![Turio's Stats](https://github-readme-stats.vercel.app/api?username=7und3dpy&theme=chartreuse-dark&show_icons=true&hide_border=true&count_private=true)
-
-![Turio's Streak](https://github-readme-streak-stats.herokuapp.com/?user=7und3dpy&theme=chartreuse-dark&hide_border=true)
-
-![Turio's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=7und3dpy&theme=chartreuse-dark&show_icons=true&hide_border=true&layout=compact)
